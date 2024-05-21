@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgb(167, 181, 177);
 }
 
 html {
@@ -242,7 +243,7 @@ section {
 .btn-color-1,
 .btn-color-2:hover {
   background: rgb(53, 53, 53);
-  color: white;
+  color: rgb(104, 168, 154);
 }
 
 .btn-color-1:hover {
@@ -361,7 +362,7 @@ article .icon {
 
 .color-container {
   border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
+  background: rgb(99, 122, 146);
 }
 
 .project-img {
